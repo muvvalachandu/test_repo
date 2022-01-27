@@ -1,6 +1,15 @@
-//   
+// local and remote repo s
+
+// git checkout "random commit"
+
+// git log
+
+//dihdhhdhd
 
 
-// this a test fille
+//we are doing something in newbranch now
 
-//we are doing something in newbranch
+//we will test some new features
+
+
+//branches
